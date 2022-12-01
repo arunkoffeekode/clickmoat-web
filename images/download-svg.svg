@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 5" width="4" height="5">
+	<title>download-svg</title>
+	<defs>
+		<image  width="4" height="5" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFAgMAAAAfw6VIAAAAAXNSR0IB2cksfwAAAAlQTFRFAAAA////////c3ilYwAAAAN0Uk5TAID/7PezGAAAABBJREFUeJxjEGHIZGAAYhEABOwA+1BLHQUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 2" href="#img1" x="0" y="0"/>
+</svg>

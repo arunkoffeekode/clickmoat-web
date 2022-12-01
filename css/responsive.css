@@ -1,0 +1,169 @@
+@charset "utf-8";
+
+/* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (max-width: 1200px) {  
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+    .container-fluid {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+      }
+ /* ================================================================= */
+ .carousel-inner .carousel-item .bck{background: #094D8C;width: 100%;height: 528px;}
+ /* .carousel-inner .carousel-item img{display: none;} */
+ .carousel-inner .carousel-item .rew{display: inline-block;}
+ .carousel-inner .carousel-item .mobile-slider{background: #094D8C;display: none;width: 100%;height: 300px;}
+/* ============================================================= */
+.footer .footer-links-1 ul li{ list-style-type:none; font-size:15px; color:#555555; display:inline-block; text-align:center; margin-bottom:15px; width:100%; float:none;}
+.footer .Subscribe {width: 100%;}
+
+.stellarnav li a {font-size: 15px!important;}
+header .register ul li {margin-right: 8px;}
+
+header {padding: 15px 0px 15px 0px;}
+.first-footer {width: 100%;margin-bottom: 20px;}
+.worthless .worthless-content {width: 100%;}
+.worthless .worthless-btn {padding: 50px 0px 0px 0px;}
+
+.main-title-black h1 {font-size: 23px;line-height: 34px;}
+.block ul li {width: 100%;}
+
+.block .block-button a {margin-right: 0px;}
+.review .review-first {padding: 30px 0px 30px 0px;}
+.review .review-first .review-button {margin-top: 0px;}
+.review .boxes {margin-top: 0px;}
+.trusted .check ul li {width: 100%;margin-bottom: 15px;}
+.bad .trafic {padding-top: 0px;margin-bottom: 25px;}
+.bad .trafic h1 {font-size: 23px;line-height: 34px;}
+.carousel-caption {margin-top: -35px;width: 100%;left: 0px;right: 0px;top: 10%;}
+.carousel-caption h1 {font-size: 25px;font-weight: 500;margin-bottom: 10px;line-height: 33px;}
+.carousel-caption b {font-size: 25px;font-weight: 500;margin-bottom: 0px;}
+
+.carousel-caption .slider.btn {font-size: 14px;padding: 9px 12px;margin: 5px 5px 0;}
+.carousel-caption .check {padding: 17px 0px 30px 0px;}
+.carousel-caption .check ul li {margin-right: 15px;}
+.carousel-caption .check ul li img {margin-right: 10px;width: 16px;height: 16px;}
+.carousel-caption .check ul li .client {font-size: 15px;}
+/* login-page */
+.login .login-left-section {width: 100%;}
+.login .login-right-section {width: 100%;}
+.login .login-right-section .forms-section .checkout-form-centre .checkout-login-step {padding: 19px 12px;}
+.single-title h1{font-size: 27px;}
+.login .login-right-section .forms-section .checkout-form-centre .checkout-login-step .login-btn .sky-btn {width: 100%;}
+.login .login-right-section .forms-section .checkout-form-centre .checkout-login-step .or .txt::before {display: none;}
+.login .login-right-section .forms-section .checkout-form-centre .checkout-login-step .or .txt::after {display: none;}
+.login .login-right-section .forms-section .checkout-form-centre .checkout-login-step .login-btn .sky-btn {font-size: 16px;}
+.login .login-right-section .forms-section .checkout-form-centre .checkout-login-step .protect .gogole-info .name {margin-bottom: 20px;}
+
+.box2{width: 100%;}
+.panel.flip .back {width: 100%;padding: 0px 15px;left: 0px;}
+.footer .footer-links-1 .footer-title h5 {max-width: 100%;text-align: center;}
+.first-footer .logo-section img {width: 200px;height: 100px;}
+.first-footer .logo-section {text-align: center;}
+.first-footer p {text-align: center;}
+
+
+.register {display: none;}
+.stellarnav  ul li .login{display: block;}
+.stellarnav ul li .custom-select{display: block;}
+.stellarnav ul li .custom-select {border: 1px solid #ffffff;height: 44px;width:100%;padding: 0px;background-color: transparent;background: none;border-radius: 0px;}
+.stellarnav  ul li .custom-select select {display: none; }
+.stellarnav  ul li .select-selected:after {position: absolute;content: "";top: 25px;right: 15px;width: 0;height: 0;border: 6px solid transparent;border-color: #ffffff transparent transparent transparent;}
+.stellarnav  ul li .select-selected.select-arrow-active:after {border-color: transparent transparent #ffffff transparent;top: 19px;}
+.stellarnav  ul li .select-selected {color: #ffffff;padding: 8px 16px;border: 1px solid transparent;border: none;cursor: pointer;user-select: none;}
+.stellarnav  ul li .select-items div {color: #000000;padding: 8px 16px;border: solid transparent;border-width: 0 1px 0 1px;cursor: pointer;user-select: none;}
+.stellarnav  ul li .select-items div:first-child {color: #000000;padding: 8px 16px;border: solid transparent;border-width: 1px 1px 0 1px;cursor: pointer;user-select: none;border-radius: 4px 4px 0 0;}
+.stellarnav  ul li .select-items div:last-child {color: #000000;padding: 8px 16px;border: solid transparent;border-width: 0 1px 1px 1px;cursor: pointer;user-select: none;border-radius: 0 0 4px 4px;}
+.stellarnav  ul li .select-items {width:100%;position: absolute;background-color: white;top: 100%;left: 0;right: 0;z-index: 99;}
+.stellarnav  ul li .select-hide {display: none;}
+.stellarnav  ul li .select-items div:hover, .same-as-selected {background-color: #3B72FF;color: #ffffff}
+.stellarnav  ul li .login{background: #3B72FF;box-shadow: 0px 16.56px 11.04px rgba(1, 1, 1, 0.06), 0px 5.52px 5.52px rgba(1, 1, 1, 0.05), 0px 5.52px 4.416px rgba(1, 1, 1, 0.04), 0px 2.208px 2.76px rgba(1, 1, 1, 0.03), 0px 0.992806px 1.104px rgba(1, 1, 1, 0.02); border-radius: 29px;font-size: 15px;padding: 11px 23px;font-weight: 500;text-align: center;text-transform: uppercase;color: #ffffff;}
+
+.blog .blog-box .blog-details .read-more::after {width: 100%;}
+.blog .filter-list .btn {margin-left: 0px;margin-right: 0px;margin-bottom: 15px;}
+.worthless-one .worthless-content-one {width: 100%;}
+.worthless-one {padding: 70px 0px 0px 0px;}
+.client-traffic .client-traffic-box {padding: 20px;min-height: 300px;margin-bottom: 30px;}
+.client-traffic .client-traffic-box h1 {font-size: 28px;line-height: 39px;}
+.client-traffic .trafic-img {padding: 20px;}
+
+.mng-ac .carousel-caption {margin-top: -35px;width: 100%;left: 0px;right: 0px;top: 10%;text-align: center;}
+.mng-ac .carousel-caption h1 {font-size: 25px;font-weight: 500;margin-bottom: 10px;line-height: 33px;text-align: center;}
+.mng-ac .carousel-caption b {font-size: 25px;font-weight: 500;margin-bottom: 0px;}
+.mng-ac .carousel-caption .slider.btn {font-size: 14px;padding: 9px 12px;margin: 0px 5px 0;}
+.mng-ac .carousel-caption .check {padding: 17px 0px 30px 0px;}
+.mng-ac .carousel-caption .check ul li {margin-right: 15px;display: inline-flex;}
+.mng-ac .carousel-caption .check ul li img {margin-right: 10px;width: 16px;height: 16px;}
+.mng-ac .carousel-caption .check ul li .client {font-size: 15px;}
+.mng-ac .carousel-caption p {text-align: center;}
+.star {text-align: center;}
+.mng-ac .carousel-caption .check ul {text-align: center;}
+.check-out .check-out-section {width: 100%;}
+.check-out .check-out-section .forms-section .checkout-form-centre .checkout-login-step {padding: 34px 4px;}
+.check-out .check-out-section .forms-section .checkout-form-centre .checkout-login-step .login-btn .sky-btn {width: 100%;}
+.section-complete ul li {width: 84px;margin-right: 0px;}
+.trial .feature-box .feature-content-filter {display: inline-block;}
+.trial .feature-box .feature-content-filter button {margin-top: 10px;}
+
+.protection .detection {padding:40px 20px 40px 20px;}
+.main-title-black b {
+  font-size: 23px;
+  line-height: 34px;
+}
+}
+
+/* ipad-pro-media-query */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+   
+}
+
+/* nest-hub-media-query */
+@media screen and (min-width:1024px) and (-webkit-min-device-pixel-ratio:0){
+  
+}
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+
+
+}
+
+@media (max-width: 600px) {
+
+  .carousel-inner .carousel-item .bck{background: #094D8C;width: 100%;height: 600px;}
+
+}
+
+
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+
+}
